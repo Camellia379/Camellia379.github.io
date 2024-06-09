@@ -25,7 +25,7 @@
     background: transparent !important;
 }
 
-/*#web_bg{*/
-/*    background: url("https://camellia379.github.io/img/img3.jpg");*/
-/*    background-size: cover;*/
-/*}*/
+#web_bg{
+    background: url("https://camellia379.github.io/img/img3.jpg");
+    background-size: cover;
+}
